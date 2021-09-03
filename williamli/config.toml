@@ -1,0 +1,26 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Hello, World!'
+theme = "SimpleIntro"
+
+publishDir = "public"
+
+[params]
+    mainbg = "https://cdn.discordapp.com/attachments/704599857083449366/722677588484423721/luca-bravo-XJXWbfSo2f0-unsplash_1.jpg"
+    name = "William Li"
+    mainTitle = "Hello, I'm William Li."
+    mainText = "Software Engineer || Food Lover"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "#about"
+    [[menu.main]]
+        identifier = "skills"
+        name = "Skills"
+        url = "#skills"
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "#projects"

@@ -1,0 +1,7 @@
+[submodule "williamli/themes/SimpleIntro"]
+	path = williamli/themes/SimpleIntro
+	url = https://github.com/gangjun06/SimpleIntro
+[submodule "williamli/public"]
+	path = williamli/public
+	url = https://github.com/willxli/williamli.github.io.git
+	branch = main

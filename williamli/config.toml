@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://williamxli.com/'
 languageCode = 'en-us'
 title = 'Hello, World!'
 theme = "SimpleIntro"
